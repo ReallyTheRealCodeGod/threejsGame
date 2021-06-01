@@ -1,3 +1,6 @@
+#Simple three.js game and demo
+
+
 ## Setup
 
 Download [Node.js](https://nodejs.org/en/download/).
